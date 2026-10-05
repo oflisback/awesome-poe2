@@ -47,6 +47,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 - 🌐 [PoE Ninja](https://poe.ninja) – Economy overview and price tracker.
 - <img src="https://poe2scout.com/favicon.ico" width="16" height="16"> [PoE 2 Scout](https://poe2scout.com/) – Tool to track market prices.
 - 🌐 [Divine Tendies](https://divinetendies.com) – Hourly Currency Exchange flip scanner with gold fees baked in and step-by-step playbooks.
+- <img src="https://github.com/favicon.ico" width="16" height="16"> [PoE2 Trade Monkey](https://github.com/maluramichael/poe2-trade-monkey) – Userscript for the official trade site: bookmark folders that open in the current league, search history, mod filter buttons and poe.ninja price equivalents.
 
 ---
 
