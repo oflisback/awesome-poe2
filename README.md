@@ -32,6 +32,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 - <img src="https://github.com/favicon.ico" width="16" height="16"> [NeversinkDev item loot filters](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - Customizable loot filters.
 - <img src="https://github.com/favicon.ico" width="16" height="16"> [Exiled exchange 2](https://github.com/Kvan7/Exiled-Exchange-2) - In game overlay display of item prices.
 - <img src="https://poe2.re/favicon.ico" width="16" height="16"> [Vendor Regex](https://poe2.re/) – Regex creator for efficiently using the vendor search field.
+- <img src="https://www.poe2.dev/favicon.ico" width="16" height="16"> [POE2 Tools](https://www.poe2.dev) – Free open-source build planner, DPS calculators, passive skill tree, guides and patch notes.
 
 
 ---
