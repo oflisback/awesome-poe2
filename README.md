@@ -8,6 +8,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 ## Contents
 - [Official Resources](#official-resources)
 - [Community Tools](#community-tools)
+- [Campaign Guides](#campaign-guides)
 - [Build Guides](#build-guides)
 - [Trading & Economy](#trading--economy)
 - [Communities](#communities)
@@ -37,6 +38,15 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 - <img src="https://github.com/favicon.ico" width="16" height="16"> [Exiled exchange 2](https://github.com/Kvan7/Exiled-Exchange-2) - In game overlay display of item prices.
 - <img src="https://poe2.re/favicon.ico" width="16" height="16"> [Vendor Regex](https://poe2.re/) – Regex creator for efficiently using the vendor search field.
 
+
+---
+
+## Campaign Guides
+- <img src="https://www.poe2wiki.net/favicon.ico" width="16" height="16"> [Acts quick guide](https://www.poe2wiki.net/wiki/Guide:Acts_quick_guide) – Concise act-by-act walkthrough on the PoE2 Wiki.
+- <img src="https://github.com/favicon.ico" width="16" height="16"> [PoE2 Leveling Guide](https://domistae.github.io/poe2-leveling/poe2_leveling_guide.html) – Step-by-step leveling route through the campaign.
+- <img src="https://maxroll.gg/favicon.ico" width="16" height="16"> [Maxroll Campaign Guide](https://maxroll.gg/poe2/getting-started/path-of-exile-2-campaign-guide) – Detailed campaign walkthrough with tips and rewards.
+- 🌐 [Act 1 Speedrun Guide by GuyThatDies](https://mobalytics.gg/poe-2/guides/act-1-guide-guythatdies) – Speedrunning tips and routing for Act 1.
+- 🌐 [Misoxshiru's Hollow Palm Monk Leveling](https://mobalytics.gg/poe-2/builds/misoxshiru-hollow-palm-monk-league-starter) – Build-specific but very detailed campaign speedrun route and tips.
 
 ---
 
