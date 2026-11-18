@@ -28,8 +28,12 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## Community Tools
 - <img src="https://poe2db.tw/favicon.ico" width="16" height="16"> [PoE2 db](https://poe2db.tw/) – Item information database.
+- <img src="https://www.poe2wiki.net/favicon.ico" width="16" height="16"> [PoE2 Wiki](https://www.poe2wiki.net/) – Community-maintained wiki for mechanics, items and skills.
+- <img src="https://github.com/favicon.ico" width="16" height="16"> [Path of Building (PoE2)](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2) – Offline build planner and DPS calculator.
 - 🌐 [Craft of Exile](https://www.craftofexile.com/?game=poe2) – Crafting info and calculator.
 - <img src="https://github.com/favicon.ico" width="16" height="16"> [NeversinkDev item loot filters](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - Customizable loot filters.
+- 🌐 [FilterBlade](https://www.filterblade.xyz/?game=Poe2) – Web editor for customizing NeverSink's loot filters.
+- <img src="https://poe2filter.com/favicon.ico" width="16" height="16"> [PoE 2 Filter](https://poe2filter.com/) – Custom loot filter generator.
 - <img src="https://github.com/favicon.ico" width="16" height="16"> [Exiled exchange 2](https://github.com/Kvan7/Exiled-Exchange-2) - In game overlay display of item prices.
 - <img src="https://poe2.re/favicon.ico" width="16" height="16"> [Vendor Regex](https://poe2.re/) – Regex creator for efficiently using the vendor search field.
 
@@ -39,12 +43,13 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 ## Build Guides
 - <img src="https://www.youtube.com/favicon.ico" width="16" height="16"> [Exile Academy](https://www.youtube.com/@ExileAcademy) – Beginner and advanced video guides.
 - 🌐 [Mobalytics](https://mobalytics.gg/poe-2) – Build guides and analytics platform.
+- <img src="https://maxroll.gg/favicon.ico" width="16" height="16"> [Maxroll](https://maxroll.gg/poe2) – Build guides, tier lists and resources.
+- 🌐 [PoE Ninja Builds](https://poe.ninja/poe2/builds) – Browse popular builds from top ladder characters.
 
 ---
 
 ## Trading & Economy
-- <img src="https://www.pathofexile.com/favicon.ico" width="16" height="16"> [Official Trade Site](https://www.pathofexile.com/trade) – Game's built-in trading system.
-- 🌐 [PoE Ninja](https://poe.ninja) – Economy overview and price tracker.
+- 🌐 [PoE Ninja](https://poe.ninja/poe2/economy) – Economy overview and price tracker.
 - <img src="https://poe2scout.com/favicon.ico" width="16" height="16"> [PoE 2 Scout](https://poe2scout.com/) – Tool to track market prices.
 - 🌐 [Divine Tendies](https://divinetendies.com) – Hourly Currency Exchange flip scanner with gold fees baked in and step-by-step playbooks.
 
